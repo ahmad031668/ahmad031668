@@ -10,4 +10,3 @@ A passionate developer from Pakistan
 - 📫 How to reach me: ...Email: m.ahmad031668@gmail.com
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...i am Pakistani
--->
