@@ -1,6 +1,6 @@
-##Hi 👋I'm Muhammad Ahmad
+**Hi 👋I'm Muhammad Ahmad
 
-   **A passionate developer from Pakistan
+  A passionate developer from Pakistan
 
 - 🔭 I’m currently working on Smart Parking System(IOT Based Project)
 - 🌱 I’m currently learning Andriod
